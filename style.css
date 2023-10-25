@@ -1,0 +1,62 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+h3{
+    text-align: center;
+    color: black;
+    font-size: x-large;
+    margin-top: 5px;
+}
+
+.mainContainer{
+    border: 3px solid rgb(10, 10, 13);
+    height: 540px;
+    width: 390px;
+    border-radius: 45px;
+    background-color: rgb(255, 182, 46);
+    margin: auto;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+.btns{
+    margin: 15px;
+}
+
+input{
+    background-color: rgb(234, 225, 225) !important;
+    border-width: 10px;
+}
+
+.inputScreen{
+    width: 340px;
+    margin: auto;
+}
+
+.screen{
+    height: 50px;
+    width: 330px;
+    border: 2px solid black;
+    font-size: xx-large;
+    background-color: rgb(243, 231, 231); 
+}
+
+.btnn{
+    height: 60px;
+    width: 80px;
+    border-radius: 60px;
+    border: 3px solid black;
+    background-color: rgb(189, 217, 226);
+    color: rgb(0, 0, 0);
+    font-size: 27px;
+    font-weight: bold;
+    margin: 3px;
+    box-shadow: -15 -15 10px rgb(236, 232, 232);
+}
+.btnn:hover{
+    background-color: violet;
+    color: white;
+}
+
